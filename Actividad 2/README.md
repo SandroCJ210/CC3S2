@@ -2,4 +2,4 @@
 
 Se ejecuta el bash usando WSL
 
-![alt text](image.png)
+![alt text](images/image.png)
