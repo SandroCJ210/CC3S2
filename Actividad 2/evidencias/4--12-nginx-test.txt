@@ -1,0 +1,2 @@
+2025/09/12 17:02:37 [emerg] 2912#2912: invalid number of arguments in "ssl_certificate" directive in /etc/nginx/sites-enabled/miapp.conf:5
+nginx: configuration file /etc/nginx/nginx.conf test failed
